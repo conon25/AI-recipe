@@ -1,0 +1,46 @@
+main {
+  text-align: center;
+  background-color: white;
+  max-width: 85%;
+}
+
+.row .col {
+  font-family: "Cute Font", cursive;
+  font-weight: bold;
+}
+
+.col {
+  position: relative;
+  width: 140px;
+  height: 130px;
+}
+
+.container-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+}
+
+.material-icon {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.meterial-color-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.material-color-icon-percent {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+}

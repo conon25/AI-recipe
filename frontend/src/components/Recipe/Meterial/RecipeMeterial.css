@@ -1,0 +1,58 @@
+.meterial-list {
+  margin-right: 50px;
+  padding: 0px 20px 18px 0px;
+  vertical-align: top;
+}
+
+.meterial-list li {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+  border-bottom: 1px solid #ececec;
+  padding: 10px 6px;
+  list-style: none;
+  margin: 0 25px;
+  font-size: 16px;
+}
+
+.meterial-list li .meterial-unit {
+  float: right;
+  color: #999;
+}
+
+.meterial-container {
+  padding: 35px 20px 0 25px;
+}
+
+.meterial-container .meterial-container-title {
+  margin: 0 -25px;
+}
+
+.meterial-container-title {
+  font-size: 20px;
+  color: #000;
+  padding: 0 35px 30px 35px;
+}
+
+.meterial-container-title b {
+  font-weight: 500;
+}
+
+.meterial-container-title span {
+  color: #ccc;
+  font-size: 14px;
+  font-style: italic;
+  padding-left: 4px;
+}
+
+.menu_best .meterial-container-title {
+  position: absolute;
+  left: 50%;
+  top: 25px;
+  margin-left: -185px;
+  z-index: 100;
+}
+
+.meterial-container .meterial-container-title {
+  margin: 0 -25px;
+}

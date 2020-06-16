@@ -1,0 +1,26 @@
+p {
+  display: flex;
+  justify-content: center;
+  font-family: "Cute Font", cursive;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+main {
+  background-color: white;
+  padding: 0 1.3em;
+  margin: 1em auto;
+  max-width: 90%;
+}
+
+.condiments-icon {
+  width: 50px;
+  height: 50px;
+  margin: 10px auto;
+  background-color: gray;
+}
+
+.condiments-title {
+  font-family: "Cute Font", cursive;
+  text-align: center;
+}
