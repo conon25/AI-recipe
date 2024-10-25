@@ -87,5 +87,5 @@ typed-ast==1.4.1
 uritemplate==3.0.1
 urllib3==1.25.8
 wcwidth==0.1.9
-Werkzeug==1.0.1
+Werkzeug==3.0.6
 wrapt==1.11.2
